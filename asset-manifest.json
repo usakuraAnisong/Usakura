@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Usakura/static/css/main.f855e6bc.css",
+    "main.js": "/Usakura/static/js/main.3321e4db.js",
+    "static/js/453.7751843a.chunk.js": "/Usakura/static/js/453.7751843a.chunk.js",
+    "static/media/logo.svg": "/Usakura/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Usakura/index.html",
+    "main.f855e6bc.css.map": "/Usakura/static/css/main.f855e6bc.css.map",
+    "main.3321e4db.js.map": "/Usakura/static/js/main.3321e4db.js.map",
+    "453.7751843a.chunk.js.map": "/Usakura/static/js/453.7751843a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.3321e4db.js"
+  ]
+}
