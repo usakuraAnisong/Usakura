@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Usakura/static/css/main.d046a1de.css",
+    "main.css": "/Usakura/static/css/main.ec355680.css",
     "main.js": "/Usakura/static/js/main.1a953ced.js",
     "static/js/453.7751843a.chunk.js": "/Usakura/static/js/453.7751843a.chunk.js",
     "index.html": "/Usakura/index.html",
-    "main.d046a1de.css.map": "/Usakura/static/css/main.d046a1de.css.map",
+    "main.ec355680.css.map": "/Usakura/static/css/main.ec355680.css.map",
     "main.1a953ced.js.map": "/Usakura/static/js/main.1a953ced.js.map",
     "453.7751843a.chunk.js.map": "/Usakura/static/js/453.7751843a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d046a1de.css",
+    "static/css/main.ec355680.css",
     "static/js/main.1a953ced.js"
   ]
 }
