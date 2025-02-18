@@ -1,0 +1,38 @@
+.navbar {
+  position: fixed;
+  bottom: 20px; /* 하단에서 20px 띄움 */
+  left: 50%;
+  transform: translateX(-50%);
+  width: 70%; /* app-container와 동일한 너비 */
+  background-color: #fff; /* 또는 원하는 배경색 */
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1); /* 선택적: 상단 그림자 효과 */
+  border-radius: 20px;
+}
+
+.nav-item {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  font-weight: bold;
+  transition: color 0.3s ease-in-out;
+}
+
+.nav-item:hover {
+  color: #ff7f50;
+}
+
+.active {
+  color: #ff7f50;
+}
+
+.divider {
+  color: gray;
+  margin: 0 10px;
+}
+
+
+  
