@@ -10,16 +10,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Code Checkout
-        uses: actions/checkout@v4
-      
-      - name: Set Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '18'
+     name: Vite build test
 
-      - name: Install Dependencies
-        run: npm install
+on:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Clear dependencies
+        run: rm package-lock.json
+
+      - name: Install dependencies
+        run: npm i
 
       - name: Build
         run: npm run build
