@@ -27,7 +27,6 @@ const Social: React.FC = () => {
             <a href="https://x.com/usakura_Anison" target="_blank" rel="noopener noreferrer" css={a}>
                 <FaXTwitter size={60} />
             </a>
-            test Commit
         </div>
     )
 }
